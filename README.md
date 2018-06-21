@@ -2,6 +2,9 @@
 
 This repository is used as project for subject Business Intelligence.
 
+Recommendation is done using movie plots. 
+Based on plots of movies you watched algorithm gives you recommendation what else you should watch.
+
 ## Preparation
 
 Create these directories in root folder:
